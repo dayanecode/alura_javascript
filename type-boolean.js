@@ -15,6 +15,5 @@ if (primeiroNum === segundoNum) {
     cadastroAtivado = 'false'   
 }
 
- console.log(cadastroAtivado)
+console.log(cadastroAtivado)
 
- 
