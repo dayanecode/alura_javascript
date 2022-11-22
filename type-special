@@ -1,0 +1,13 @@
+//Tipos especiais
+let input = null;
+let input2;
+
+if (input !== null) {
+    console.log("Não há informação no campo.")
+} else {
+    console.log(input) //null
+}
+
+console.log(input2); //undefined
+
+
